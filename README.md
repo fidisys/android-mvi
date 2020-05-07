@@ -1,6 +1,9 @@
 # MVI architecture for Kotlin mutliplatform project
 Currently sample is only for android app. Feel free to fork and implement for the iOS app.
 
+This application uses MVI framework form this library
+https://github.com/arkivanov/MVIKotlin
+
 Follow these articles for android and iOS project setup for kotlin multiplatorm:
 
 Android https://medium.com/@kalaiselvan369/kotlin-mobile-cross-platform-7647d25e3663
