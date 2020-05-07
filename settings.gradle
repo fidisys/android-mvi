@@ -1,0 +1,4 @@
+rootProject.name='mvi'
+include ':app'
+include ':shared'
+enableFeaturePreview('GRADLE_METADATA')
